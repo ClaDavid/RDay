@@ -1,0 +1,10 @@
+ExpProfissionais,QualiRefeicao,LocalEstabelecimento,classe
+MUITA,BOA,RUIM,Lucro
+MUITA,BOA,BOA,Lucro
+POUCA,BOA,BOA,Lucro
+POUCA,OTIMA,RUIM,Prejuizo
+POUCA,OTIMA,BOA,Prejuizo
+MUITA,OTIMA,BOA,Lucro
+MUITA,OTIMA,RUIM,Prejuizo
+POUCA,BOA,RUIM,Prejuizo
+MUITA,BOA,BOA,Lucro
